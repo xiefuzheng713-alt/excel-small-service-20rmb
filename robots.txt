@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://xiefuzheng713-alt.github.io/excel-small-service-20rmb/sitemap.xml
+
